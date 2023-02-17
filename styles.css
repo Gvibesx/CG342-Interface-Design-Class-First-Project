@@ -2,4 +2,12 @@ h1{
     font-size: 40px;
     color: lightsalmon;
     font-style: italic;
+    font-family: font-family: 'Dosis', sans-serif;;
+}
+
+p{
+    font-size: 20px;
+    color:blue;
+    font-family: 'Dosis', sans-serif;
+    line-height:5px;
 }
