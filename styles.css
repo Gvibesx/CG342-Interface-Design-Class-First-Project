@@ -26,3 +26,12 @@ p{
 body{
     background-color: azure;
 }
+
+.button-links {
+    border-style: solid;
+    border-color: crimson;
+    background-color: bisque;
+    border-width: 2px;
+    text-decoration: none;
+    color: black;
+}
