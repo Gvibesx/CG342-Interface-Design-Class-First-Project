@@ -78,10 +78,11 @@ body{
     text-align: center;
     padding-top: 110px;
     background-color: rgb(200, 171, 228);
+    margin: 0;
 }
 
 .main-content{
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 0 10px;
 }
