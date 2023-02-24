@@ -59,6 +59,19 @@ body{
     text-align: center;
     margin-top: 20px;
 }
+.button-alarm {
+    border-style: dotted;
+    border-color: rgb(0, 255, 115);
+    background-color: rgb(255, 174, 236);
+    border-width: 10px;
+    text-decoration: none;
+    color: black;   
+    border-radius: 8px;
+    display: block;
+    width: 203px;
+    text-align: center;
+    margin-top: 20px;
+}
 
 .top-banner{
     height: 150px;
