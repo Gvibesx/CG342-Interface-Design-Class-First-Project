@@ -78,7 +78,7 @@ body{
     text-align: center;
     padding-top: 110px;
     background-color: rgb(200, 171, 228);
-    margin: 0;
+
 }
 
 .main-content{
@@ -91,4 +91,5 @@ footer{
     height: 100px;
     text-align: center;
     padding: 10px 0;
+    margin: 0 auto;
 }
