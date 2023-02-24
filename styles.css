@@ -31,6 +31,7 @@ p{
 }
 body{
     background-color: azure;
+    margin: 0;
 }
 
 .button-link {
@@ -77,6 +78,7 @@ body{
     height: 150px;
     text-align: center;
     background-color: rgb(200, 171, 228);
+    padding-top: 100px;
 
 }
 
