@@ -33,5 +33,10 @@ body{
     background-color: rgb(228, 255, 148);
     border-width: 1px;
     text-decoration: none;
-    color: black;
+    color: black;   
+    border-radius: 8px;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
 }
