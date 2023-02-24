@@ -21,7 +21,7 @@ p{
     font-size: 20px;
     color:blue;
     font-family: 'Dosis', sans-serif;
-    line-height:  20px;
+    line-height:  27px;
 }
 body{
     background-color: azure;
@@ -30,7 +30,7 @@ body{
 .button-link {
     border-style: solid;
     border-color: crimson;
-    background-color: bisque;
+    background-color: rgb(228, 255, 148);
     border-width: 1px;
     text-decoration: none;
     color: black;
