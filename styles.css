@@ -96,10 +96,11 @@ footer{
 }
 nav {
     padding: 20px;
+
 }
 .nav-links {
     list-style-type: none;
-    margin: 0, auto;
+    margin: 0 auto;
     padding: 0;
     width: 200px;
 }
