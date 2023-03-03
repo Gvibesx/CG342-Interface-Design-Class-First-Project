@@ -96,6 +96,9 @@ footer{
 }
 nav {
     padding: 20px;
+    position: fixed;
+    width: 100%;
+    background-color: whitesmoke;
 
 }
 .nav-links {
